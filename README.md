@@ -23,12 +23,8 @@
 - Some packages might fail, due R dependencies, OS dependencies, libc stuff, java stuff and etc, you will need to take care of it.
 - Run at your own risk.
 
-### Further improuvements
+### Further implementations
 
 - [ ] Improuve the paramenters on the *install.packages* command
 - [ ] Check for version updates
 - [ ] Log installation to a file
-
-
-  - 
-  
